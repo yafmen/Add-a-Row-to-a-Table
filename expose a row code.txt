@@ -1,0 +1,9 @@
+Button code:
+
+exposeRow := exposeRow + 1;
+@SetField("exposeRow"; exposeRow);
+@Command([RefreshHideFormulas])
+
+
+Hide-when formula to expose rows:
+exposeRow < n, where 'n' is the row number
