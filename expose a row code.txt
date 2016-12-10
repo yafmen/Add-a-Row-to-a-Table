@@ -7,3 +7,5 @@ exposeRow := exposeRow + 1;
 
 Hide-when formula to expose rows:
 exposeRow < n, where 'n' is the row number
+
+Justin
